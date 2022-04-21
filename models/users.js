@@ -10,8 +10,7 @@ export async function getUserById(id) {
   return result.rows;
 }
 
-
-
+//
 
 // user_id added to the create user//
 export async function createUser(body) {
